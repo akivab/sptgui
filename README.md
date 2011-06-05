@@ -28,4 +28,4 @@ Please report any issues to akiva.bamberger@gmail.com
 Acknowledgements
 ------------
 
-We thank the NIH (Grant HL. ?) for their financial support.
+We thank the NIH (Grant 7PN2EY016586-06) for their financial support.
